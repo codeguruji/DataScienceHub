@@ -2,4 +2,4 @@
 - Topic Modeling tutorial (with #topic optimization by minimizing perplexity and maximizing log likelihood) (explore topic coherence measure)
 - Sentiment analysis (emotion detection anger, joy etc.)
 - Dimensionality reduction (PCA tutorial)
-- 
+- Recommender system (Collaborative filtering, Content filtering, Markov Chain Model)
