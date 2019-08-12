@@ -3,3 +3,4 @@
 - Sentiment analysis (emotion detection anger, joy etc.)
 - Dimensionality reduction (PCA tutorial)
 - Recommender system (Collaborative filtering, Content filtering, Markov Chain Model)
+- Word2Vec and Doc2Vec model training, transfer learning
